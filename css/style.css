@@ -955,7 +955,7 @@ li {
 }
 
 .bonus__image {
-  background-image: url(./../../images/bonus/phone.png);
+  background-image: url(./../images/bonus/phone.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 50%;
@@ -1036,12 +1036,12 @@ li {
 }
 
 .bonus__btn--app {
-  background-image: url(./../../images/bonus/app_store.svg.png);
+  background-image: url(./../images/bonus/app_store.svg.png);
   background-position: 15% 48%;
 }
 
 .bonus__btn--google {
-  background-image: url(./../../images/bonus/google_play.svg.png);
+  background-image: url(./../images/bonus/google_play.svg.png);
   background-position: 15% 50%;
 }
 
@@ -1122,7 +1122,7 @@ li {
   }
 
   .bonus__image {
-    background-image: url(./../../images/bonus/phonebig.png);
+    background-image: url(./../images/bonus/phonebig.png);
     position: absolute;
     top: 0;
     right: 0;
@@ -1369,11 +1369,11 @@ li {
 
 .webp .menu__image { background: url(./../images/menu/img.webp); }
 
-.webp .bonus__image { background-image: url(./../../images/bonus/phone.webp); }
+.webp .bonus__image { background-image: url(./../images/bonus/phone.webp); }
 
-.webp .bonus__btn--app { background-image: url(./../../images/bonus/app_store.svg.webp); }
+.webp .bonus__btn--app { background-image: url(./../images/bonus/app_store.svg.webp); }
 
-.webp .bonus__btn--google { background-image: url(./../../images/bonus/google_play.svg.webp); }
+.webp .bonus__btn--google { background-image: url(./../images/bonus/google_play.svg.webp); }
 
 @media (min-width: 376px) {
 
@@ -1387,7 +1387,7 @@ li {
 
 @media (min-width: 1024px) {
 
-  .webp .bonus__image { background-image: url(./../../images/bonus/phonebig.webp); }
+  .webp .bonus__image { background-image: url(./../images/bonus/phonebig.webp); }
 }
 
 @media (min-width: 1440px) {
